@@ -1206,7 +1206,7 @@ input::-webkit-outer-spin-button{
     color: $main-background;
   }
   &.label-accent{
-    background: $accent-color;
+    background: #80C4B9;
     color: $main-background;
   }
 }
